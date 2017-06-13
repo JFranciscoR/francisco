@@ -1,0 +1,42 @@
+p.hello {
+    color: blue;
+    font-size: 50px;
+}
+
+body{
+    background: orange;
+    font-style: oblique;
+}
+
+ 
+.goodbye {
+    font-family: cursive;
+    font-size: 50px;
+}
+
+
+p.today {
+    font-style: oblique;
+    font-size: 50px;
+    text-align:center;
+}
+
+p.Youtube{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
